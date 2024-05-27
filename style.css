@@ -29,7 +29,6 @@ body {
    position: absolute;
    width: 50%;
    height: 100%;
-   background: lightsalmon;
    display: flex;
    flex-direction: column;
    justify-content: center;
@@ -86,7 +85,6 @@ body {
    position: absolute;
    width: 50%;
    height: 100%;
-   background: rebeccapurple;
    top: 0;
    right: 0;
    border-radius: 10px;
@@ -115,6 +113,6 @@ body {
     top: 0;
     right: 0;
     background: lime;
-    transform: rotate(12deg) skewY(40deg);
+    transform: rotate(18deg) skewY(40deg);
     transform-origin: bottom right;
 }
